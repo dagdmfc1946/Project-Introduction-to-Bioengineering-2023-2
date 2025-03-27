@@ -5,6 +5,7 @@
 
 > [!NOTE]
 > El proyecto consta de 3 etapas:
+> 
 > ETAPA 1. Electrocardiógrafo analógico de una derivación: En esta etapa se obtuvo la señal ECG. Se diseño y fabrico PCB, se completo. 9/10.
 > 
 > ETAPA 2. Cartiodacometro digital con diagnóstico automatizado (medición frecuencia cardiaca): En esta etapa se hacia converción a pulsos por cada complejo QRS de la señal ECG, esto será la entrada en el microcontrolador para hacer la parte de medicón de frecuencia cardiaca. Se diseño y fabrico PCB, medianamente se completo. 6/10.
